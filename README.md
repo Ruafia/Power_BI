@@ -32,3 +32,6 @@ Results and Impact
 User Experience: Provides an intuitive way to explore and interact with sales data.
 
 Business Value: Supports quick insights into sales trends and key performance indicators, aiding data-driven decision-making.
+
+![image](https://github.com/user-attachments/assets/22bdd215-3f98-4b8d-892a-62130e06ca48)
+
